@@ -1,0 +1,9 @@
+.Profil {
+    border-bottom-style: dotted;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ProfilImage {
+    border-radius: 100%;
+}
